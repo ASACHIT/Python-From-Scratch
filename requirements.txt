@@ -1,0 +1,5 @@
+wget==3.2
+requests==2.26.0
+win10toast_click==0.1.2
+beautifulsoup4==4.10.0
+dataclasses==0.8
